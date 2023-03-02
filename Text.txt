@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Nguyễn Xuân Tiến commit 
 Đã sửa hehe
+=======
+Nguyễn Xuân Tiến commit
+Hôm nay trời nắng
+>>>>>>> e921a8babf2a6f617a1bd1bda8b6561b8c13d129
